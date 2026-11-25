@@ -1,0 +1,15 @@
+# Dependencies and build output
+node_modules
+dist
+dist-ssr
+
+# Local environment variables (NEVER commit your .env file)
+.env
+.env.local
+.env.*.local
+
+# Logs and editor files
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
